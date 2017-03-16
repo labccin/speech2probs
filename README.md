@@ -11,7 +11,7 @@ For each frame being decoded, instead of outputting the single most-likely phone
 
 1) A '**broken**' Lexicon
 
-* The conventional lexicon (word-pronunciation mapping; shown below) shouldn't apply, as you don't want the system to output real words. Speech2prob doesn't know which sequence of phoneme form real words.
+* The conventional lexicon (word-pronunciation mapping; shown below) shouldn't apply, as you don't necessarily want the system to output real words. Speech2prob doesn't know which sequence of phoneme form real words.
 
 		가공의	k0 aa k0 oo ng xi	
 		가기	k0 aa k0 ii
